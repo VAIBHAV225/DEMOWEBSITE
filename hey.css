@@ -1,0 +1,137 @@
+#title{
+    background-color:#ff4c68;
+    color:white;
+}
+h3{
+    font-family:monteserrat;
+}
+h1{
+    font:bold;
+    font-family:Montserrat-black;
+    font-size:3.5rem;
+    line-height:2;
+}
+p{
+    color:grey;
+}
+.container-fluid{
+    padding:3% 15%;
+}
+.lol{
+    position:relative;
+}
+body{
+    font-family:montserrat;
+}
+.navbar-brand{
+    font-family:ubuntu;
+    font-size:2rem;
+    font-weight:bold;
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+.nav-item{
+    padding:0 18px 0 18px;
+}
+.nav-link:hover{
+    font-family:ubuntu;
+    /*background-color:bg-white;*/
+}
+.download-button{
+    margin:2rem;
+    
+}
+.lol{
+    transform:rotate(25deg);
+        
+}
+#features{
+    padding:7% 15%; 
+    text-align: center;
+    padding:7% 15%;
+    background-color:white;
+    position:relative;
+    z-index:1;
+}
+.image-iphone{
+    width: 60%;
+    position:absolute;
+    right:30%;
+}
+.icon{
+    color:#ef8172;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+#testimonials{
+    padding:7% 15%;
+    text-align:center;
+    background-color:#ef8172;
+    color:aquamarine;
+}
+h2{
+    font-family:ubuntu;
+    line-height:1.5;
+    font-size:3rem;
+}
+.testimonials-image{
+    border-radius:100%;
+}
+#press{
+    background-color:#ef8172;
+    text-align:center;
+    font-size:20px;
+    padding-bottom:30px;
+}
+.press-logo{
+    width:15%;
+    margin:20px 20px 50px;
+}
+.carousel-item{
+    padding:7% 15%;
+}
+#pricing{
+    font-size:30px;
+    padding:100px;
+    text-align:center;
+}
+.card{
+    padding:2% 5%;
+}
+@media (max-width:1028px){
+    #text{
+        text-align:center;
+        
+    }
+    
+    .image-iphone{
+        position:static;
+        transform: rotate(0deg);        
+    }
+}
+#cta{
+    text-align:center;
+    background-color:#ef8172;
+    padding:5% 15%;
+    color:white;
+}
+.yup{
+    font-size:3.5rem;
+    line-height: 1.5;
+}
+#footer{
+    text-align:center;
+    color:aqua;
+    font-size:20px;
+ margin:10px;
+}
+.fab-t{
+    color:black;
+    padding-top:70px;
+    margin:5%;
+}
+.testimonial-image{
+    border-radius:100%;
+}
